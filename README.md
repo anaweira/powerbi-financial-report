@@ -43,11 +43,11 @@ O projeto consiste na criação de um relatório interativo com duas páginas pr
 
 O relatório atinge os seguintes critérios:
 
-✅ Botões com imagem e navegação
-✅ Segmentadores com interatividade
-✅ Gráficos informativos sobre receita, lucro e desempenho
-✅ Segunda página com visuais originais
-✅ Layout claro e organizado
+✅ Botões com imagem e navegação  
+✅ Segmentadores com interatividade  
+✅ Gráficos informativos sobre receita, lucro e desempenho  
+✅ Segunda página com visuais originais  
+✅ Layout claro e organizado  
 ✅ Publicação no Power BI Service
 
 ---
